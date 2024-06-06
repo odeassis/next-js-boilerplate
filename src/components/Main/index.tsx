@@ -1,7 +1,7 @@
 function Main() {
   return (
     <main>
-      <h1>App Main</h1>
+      <h1 className="text-5xl text-blue-500">App Main</h1>
     </main>
   )
 }
